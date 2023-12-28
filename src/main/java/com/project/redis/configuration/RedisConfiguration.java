@@ -1,6 +1,3 @@
-# Redis Test
-
-```java
 package com.project.redis.configuration;
 
 import org.springframework.boot.autoconfigure.data.redis.RedisProperties;
@@ -35,4 +32,3 @@ public class RedisConfiguration {
 		return redisTemplate;
 	}
 }
-```
