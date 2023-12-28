@@ -36,3 +36,5 @@ public class RedisConfiguration {
 	}
 }
 ```
+
+https://green-bin.tistory.com/69
